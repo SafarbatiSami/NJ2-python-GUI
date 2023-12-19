@@ -1,4 +1,4 @@
-# NucleusJ 2.0 in Python
+# NucleusJ 2.0 in Python With GUI
 
 ## Compute parameters
 
